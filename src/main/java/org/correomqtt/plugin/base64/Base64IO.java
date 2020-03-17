@@ -1,8 +1,8 @@
-package com.exxeta.correomqtt.plugin.base64;
+package org.correomqtt.plugin.base64;
 
-import com.exxeta.correomqtt.plugin.model.MessageExtensionDTO;
-import com.exxeta.correomqtt.plugin.spi.MessageIncomingHook;
-import com.exxeta.correomqtt.plugin.spi.PublishMessageHook;
+import org.correomqtt.plugin.model.MessageExtensionDTO;
+import org.correomqtt.plugin.spi.MessageIncomingHook;
+import org.correomqtt.plugin.spi.PublishMessageHook;
 import org.pf4j.Extension;
 
 @Extension
