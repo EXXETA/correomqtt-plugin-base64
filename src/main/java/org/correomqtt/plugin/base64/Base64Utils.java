@@ -1,4 +1,4 @@
-package com.exxeta.correomqtt.plugin.base64;
+package org.correomqtt.plugin.base64;
 
 import java.util.Base64;
 
